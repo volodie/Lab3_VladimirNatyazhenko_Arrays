@@ -1,0 +1,15 @@
+C:\Users\v.natyazhenko\source\repos\ArrayCycles\ArrayCycles\bin\Debug\net7.0\ArrayCycles.exe
+C:\Users\v.natyazhenko\source\repos\ArrayCycles\ArrayCycles\bin\Debug\net7.0\ArrayCycles.deps.json
+C:\Users\v.natyazhenko\source\repos\ArrayCycles\ArrayCycles\bin\Debug\net7.0\ArrayCycles.runtimeconfig.json
+C:\Users\v.natyazhenko\source\repos\ArrayCycles\ArrayCycles\bin\Debug\net7.0\ArrayCycles.dll
+C:\Users\v.natyazhenko\source\repos\ArrayCycles\ArrayCycles\bin\Debug\net7.0\ArrayCycles.pdb
+C:\Users\v.natyazhenko\source\repos\ArrayCycles\ArrayCycles\obj\Debug\net7.0\ArrayCycles.csproj.AssemblyReference.cache
+C:\Users\v.natyazhenko\source\repos\ArrayCycles\ArrayCycles\obj\Debug\net7.0\ArrayCycles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v.natyazhenko\source\repos\ArrayCycles\ArrayCycles\obj\Debug\net7.0\ArrayCycles.AssemblyInfoInputs.cache
+C:\Users\v.natyazhenko\source\repos\ArrayCycles\ArrayCycles\obj\Debug\net7.0\ArrayCycles.AssemblyInfo.cs
+C:\Users\v.natyazhenko\source\repos\ArrayCycles\ArrayCycles\obj\Debug\net7.0\ArrayCycles.csproj.CoreCompileInputs.cache
+C:\Users\v.natyazhenko\source\repos\ArrayCycles\ArrayCycles\obj\Debug\net7.0\ArrayCycles.dll
+C:\Users\v.natyazhenko\source\repos\ArrayCycles\ArrayCycles\obj\Debug\net7.0\refint\ArrayCycles.dll
+C:\Users\v.natyazhenko\source\repos\ArrayCycles\ArrayCycles\obj\Debug\net7.0\ArrayCycles.pdb
+C:\Users\v.natyazhenko\source\repos\ArrayCycles\ArrayCycles\obj\Debug\net7.0\ArrayCycles.genruntimeconfig.cache
+C:\Users\v.natyazhenko\source\repos\ArrayCycles\ArrayCycles\obj\Debug\net7.0\ref\ArrayCycles.dll

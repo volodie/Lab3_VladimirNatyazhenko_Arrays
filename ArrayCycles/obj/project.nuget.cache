@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hxe8HVCZJ5cPKEzkC1AjUa1GbT85HTkhHvVb9qiZl2mAuSJHcP3uM2DuuyJTyJPW1lfGaU968ea+NAvoeq6ChQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\v.natyazhenko\\source\\repos\\ArrayCycles\\ArrayCycles\\ArrayCycles.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://dcplvmp-sysnug1.zgs.loc/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget/nuget/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

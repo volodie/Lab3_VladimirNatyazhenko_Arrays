@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayCycles", "ArrayCycles\ArrayCycles.csproj", "{D3BBEE91-8F4B-43A2-AFB6-0CCCB33F9102}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3BBEE91-8F4B-43A2-AFB6-0CCCB33F9102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3BBEE91-8F4B-43A2-AFB6-0CCCB33F9102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3BBEE91-8F4B-43A2-AFB6-0CCCB33F9102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3BBEE91-8F4B-43A2-AFB6-0CCCB33F9102}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E46D917F-F8D3-4F88-941D-D385B7AAB10D}
+	EndGlobalSection
+EndGlobal
